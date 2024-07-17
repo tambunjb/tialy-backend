@@ -1,3 +1,8 @@
+# <span id="tjidtitle">Link Shortener</span>
+
+<div>Technologies: <span id="tjidtechs">Node.js, Express.js, MongoDB, JWT, Docker, Mocha, Chai</span></div>
+<br />
+
 RUN THE TESTING :
 COMMAND=test docker-compose up --build
 
