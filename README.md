@@ -1,6 +1,6 @@
 # <span id="tjidtitle">Link Shortener</span>
 
-<div>Technologies: <span id="tjidtechs">Node.js, Express.js, MongoDB, JWT, Docker, Mocha/Chai</span></div>
+<div>Technologies: <span id="tjidtechs">Node.js, Express.js, MongoDB, JWT, Docker, Mocha/Chai, JavaScript</span></div>
 <br />
 
 RUN THE TESTING :
